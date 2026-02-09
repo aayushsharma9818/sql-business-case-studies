@@ -79,5 +79,3 @@ Business Question → SQL Solution → Insights → Recommendations
 
 ---
 
-## 📁 Folder Structure
-
