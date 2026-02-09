@@ -1,14 +1,23 @@
-# Sales Analysis – Insights
+# Sales Analysis – Key Insights
 
-## Key Insights
-- Sales show a clear month-on-month trend with seasonal fluctuations.
-- A small number of products contribute a large share of total sales.
-- A significant portion of customers are repeat buyers, indicating customer loyalty.
-- Certain regions outperform others in total sales contribution.
-- Technology and Office Supplies categories generate the highest revenue.
+## Revenue & Trends
+- Sales show an overall upward trend with visible seasonal spikes.
+- Certain months consistently outperform others, indicating seasonality.
+
+## Product Performance
+- A small group of products contributes a large share of total sales.
+- Technology and Office Supplies categories outperform others.
+
+## Customer Behavior
+- Repeat customers form a significant portion of total buyers.
+- High-value customers contribute disproportionately to revenue.
+
+## Regional Insights
+- Sales are concentrated in a few high-performing regions and states.
+- Some regions show growth potential but currently underperform.
 
 ## Business Recommendations
-- Focus marketing efforts on top-performing products.
-- Strengthen retention programs for repeat customers.
-- Allocate more resources to high-performing regions.
-- Optimize inventory for high-revenue categories.
+- Focus marketing and inventory planning on top-performing products.
+- Design loyalty programs targeting high-value and repeat customers.
+- Strengthen sales efforts in high-performing regions.
+- Prepare inventory and campaigns ahead of seasonal demand peaks.
