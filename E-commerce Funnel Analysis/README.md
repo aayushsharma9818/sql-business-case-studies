@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
 - Funnel logic
 
 ## Repository Files
-- `questions.md` – Business questions
+- `business_questions.md` – Business questions
 - `solution.sql` – SQL analysis
 - `insights.md` – Key insights & recommendations
 
